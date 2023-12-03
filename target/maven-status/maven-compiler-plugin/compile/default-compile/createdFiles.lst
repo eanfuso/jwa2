@@ -1,0 +1,5 @@
+edu/it/model/Alumno.class
+edu/it/controllers/InventarAlumnoController.class
+edu/it/controllers/AlumnosController.class
+edu/it/components/Utiles.class
+edu/it/components/ConectorJPA.class
